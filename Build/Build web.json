@@ -1,0 +1,13 @@
+{
+"companyName": "Coppetec",
+"productName": "Combate Aedes",
+"dataUrl": "Build web.data.unityweb",
+"asmCodeUrl": "Build web.asm.code.unityweb",
+"asmMemoryUrl": "Build web.asm.memory.unityweb",
+"asmFrameworkUrl": "Build web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#8B868B"
+}
